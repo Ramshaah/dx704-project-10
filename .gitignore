@@ -1,0 +1,10 @@
+# large artifacts / never commit
+*.joblib
+*.pt
+*.bin
+*.tsv.gz
+submission*.zip
+_SUBMIT_P10/
+_RES*P10/
+artifacts/
+SQuAD-explorer/
