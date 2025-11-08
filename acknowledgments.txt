@@ -1,0 +1,6 @@
+discussions: none
+
+extra_libraries: none
+
+generative_ai:
+Used OpenAI ChatGPT (GPT-5 Thinking) to help design and structure code for the DX704 Week 10 project; I reviewed, ran, and adjusted all code myself.
